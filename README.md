@@ -13,9 +13,9 @@ Este proyecto está diseñado para potenciar el rendimiento financiero de tu emp
 
 ✨ Características Destacadas:
 
-* Selección precisa de modelos: * Elige el modelo de regresión con series temporales más efectivo, adaptado a las necesidades específicas de C.O.M.E.S.A.
+* Selección precisa de modelos:  Elige el modelo de regresión con series temporales más efectivo, adaptado a las necesidades específicas de C.O.M.E.S.A.
 
-Pronósticos precisos: Obtén pronósticos confiables de la ganancia de tu empresa. Toma decisiones informadas y estratégicas basadas en resultados precisos.
+* Pronósticos precisos: Obtén pronósticos confiables de la ganancia de tu empresa. Toma decisiones informadas y estratégicas basadas en resultados precisos.
 
 ## Contribuciones y Mejoras:
 ¡Nos encantaría recibir contribuciones y sugerencias para mejorar este proyecto! Si tienes ideas para expandir las funcionalidades o mejorar la precisión de los pronósticos, no dudes en abrir un problema o enviar una solicitud de extracción.
