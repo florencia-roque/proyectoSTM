@@ -9,10 +9,11 @@ Posteriormente, ejecuta la notebook "proyecto.ipynb" para obtener los resultados
 ## Ventajas del Proyecto:
 🚀 Optimiza el Futuro Financiero 🚀
 
-Este proyecto está diseñado para potenciar el rendimiento financiero de tu empresa. Enfrenta el desafío de pronosticar con precisión la ganancia de C.O.M.E.S.A. con nuestra potente herramienta de selección de modelos de regresión con series temporales.
+Este proyecto está diseñado para potenciar el rendimiento financiero de tu empresa. Enfrenta el desafío de pronosticar con precisión la ganancia de C.O.M.E.S.A. con esta potente herramienta de selección de modelos de regresión con series temporales.
 
 ✨ Características Destacadas:
-Selección precisa de modelos: Elige el modelo de regresión con series temporales más efectivo, adaptado a las necesidades específicas de C.O.M.E.S.A.
+
+* Selección precisa de modelos: * Elige el modelo de regresión con series temporales más efectivo, adaptado a las necesidades específicas de C.O.M.E.S.A.
 
 Pronósticos precisos: Obtén pronósticos confiables de la ganancia de tu empresa. Toma decisiones informadas y estratégicas basadas en resultados precisos.
 
