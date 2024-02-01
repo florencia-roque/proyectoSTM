@@ -1,6 +1,6 @@
 # Pronóstico de Ganancias para C.O.M.E.S.A.
 
-Este proyecto tiene como objetivo facilitar el pronóstico preciso de la ganancia para la empresa de transporte uruguaya C.O.M.E.S.A. mediante el uso de modelos de regresión con series temporales. Para utilizar esta herramienta, sigue los pasos detallados a continuación:
+Este proyecto tiene como objetivo facilitar el pronóstico preciso de la ganancia para la empresa de transporte uruguaya C.O.M.E.S.A. mediante el uso de modelos de regresión con series temporales. Para utilizar esta herramienta, sigue los pasos detallados a continuación.
 
 ## Instrucciones de Uso:
 Ejecuta la notebook "datos_a_usar.ipynb" para obtener los conjuntos de datos necesarios.
