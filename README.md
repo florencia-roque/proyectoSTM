@@ -3,7 +3,7 @@ Proyecto para realizar un pronóstico de la ganancia de la empresa de transporte
 
 Primero se debe ejecutar la notebook "datos_a_usar.ipynb" para obtener los datasets y luego la notebook "proyecto.ipynb" para obtener los resultados.
 
-* Ventajas del proyecto: *  
+Ventajas del proyecto: 
 
 🚀 Optimiza el Futuro Financiero 🚀
 
