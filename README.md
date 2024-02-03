@@ -1,14 +1,24 @@
-# Proyecto STM
-Proyecto para realizar un pronóstico de la ganancia de la empresa de transporte uruguaya C.O.M.E.S.A. 
+# Pronóstico de Ganancias para C.O.M.E.S.A.
 
-Primero se debe ejecutar la notebook "datos_a_usar.ipynb" para obtener los datasets y luego la notebook "proyecto.ipynb" para obtener los resultados.
+Este proyecto tiene como objetivo facilitar el pronóstico preciso de la ganancia para la empresa de transporte uruguaya C.O.M.E.S.A. mediante el uso de modelos de regresión con series temporales. Para utilizar esta herramienta, sigue los pasos detallados a continuación.
 
-** Ventajas del proyecto: **  
+## Instrucciones de Uso:
+Ejecuta la notebook "datos_a_usar.ipynb" para obtener los conjuntos de datos necesarios.
+Posteriormente, ejecuta la notebook "proyecto.ipynb" para obtener los resultados del pronóstico.
 
+## Ventajas del Proyecto:
 🚀 Optimiza el Futuro Financiero 🚀
 
-Este proyecto está diseñado para impulsar el rendimiento financiero de tu empresa. Animate a enfrentar el desafío de pronosticar con precisión la ganancia de tu empresa con esta potente herramienta de selección de modelos de regresión con series temporales.
+Este proyecto está diseñado para potenciar el rendimiento financiero de tu empresa. Enfrenta el desafío de pronosticar con precisión la ganancia de C.O.M.E.S.A. con esta potente herramienta de selección de modelos de regresión con series temporales.
 
-✨ Selección precisa de modelos: se puede elegir el modelo de regresión con series temporales más efectivo, adaptado a las necesidades específicas de tu empresa.
+✨ Características Destacadas:
 
-📈 Pronósticos precisos: esta herramienta proporciona pronósticos confiables de la ganancia de tu empresa, permitiéndote tomar decisiones informadas y estratégicas.
+* Selección precisa de modelos:  Elige el modelo de regresión con series temporales más efectivo, adaptado a las necesidades específicas de tu empresa.
+
+* Pronósticos acertados: Obtén pronósticos confiables de la ganancia de tu empresa. Toma decisiones informadas y estratégicas basadas en resultados precisos.
+
+## Contribuciones y Mejoras:
+¡Nos encantaría recibir contribuciones y sugerencias para mejorar este proyecto! Si tienes ideas para expandir las funcionalidades o mejorar la precisión de los pronósticos, no dudes en abrir un problema o enviar una solicitud de extracción.
+
+¡Impulsa la toma de decisiones empresariales con pronósticos financieros precisos!
+
