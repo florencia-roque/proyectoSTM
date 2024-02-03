@@ -21,3 +21,4 @@ Este proyecto está diseñado para potenciar el rendimiento financiero de tu emp
 ¡Nos encantaría recibir contribuciones y sugerencias para mejorar este proyecto! Si tienes ideas para expandir las funcionalidades o mejorar la precisión de los pronósticos, no dudes en abrir un problema o enviar una solicitud de extracción.
 
 ¡Impulsa la toma de decisiones empresariales con pronósticos financieros precisos!
+
